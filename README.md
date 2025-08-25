@@ -69,7 +69,7 @@ These dependencies can be installed via pip using the following command: **pip i
 
 **Execution**
 
-The primary simulation script, optimal_execution.py, will automatically download the necessary historical data, perform the comparative analysis, and generate the corresponding visualization plots. Execute the script from the terminal as follows: **python optimal-execution.py**.
+The primary simulation script, optimalexecution.py, will automatically download the necessary historical data, perform the comparative analysis, and generate the corresponding visualization plots. Execute the script from the terminal as follows: **python optimalexecution.py**.
 
 
 
