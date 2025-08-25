@@ -1,6 +1,6 @@
 ### **Optimal Liquidation of Large Stock Orders: A Comparative Study of Algorithmic Trading Strategies**
 
-This repository contains the codebase and simulation environment for a doctoral research project focused on the comparative performance of various algorithmic execution strategies for large-scale stock orders. The primary objective is to evaluate and contrast the efficacy of classic heuristic models, foundational theoretical frameworks, and state-of-the-art deep reinforcement learning agents in minimizing market impact and overall execution costs within a high-fidelity market simulator.
+This repository contains the codebase and simulation environment for project focused on the comparative performance of various algorithmic execution strategies for large-scale stock orders. The primary objective is to evaluate and contrast the efficacy of classic heuristic models, foundational theoretical frameworks, and state-of-the-art deep reinforcement learning agents in minimizing market impact and overall execution costs within a high-fidelity market simulator.
 
 **Methodological Framework**
 
