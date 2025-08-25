@@ -65,6 +65,13 @@ The following Python libraries are required for the simulation environment:
 * matplotlib
 * seaborn
 
+These dependencies can be installed via pip using the following command: **pip install yfinance numpy pandas torch matplotlib seaborn**
+
+**Execution**
+
+The primary simulation script, optimal_execution.py, will automatically download the necessary historical data, perform the comparative analysis, and generate the corresponding visualization plots. Execute the script from the terminal as follows: **python optimalexecution.py**.
+
+
 
 
 
