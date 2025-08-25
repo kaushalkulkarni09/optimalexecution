@@ -1,5 +1,5 @@
 # Brief summary of the file:
-# optimal_execution.py - Optimal Execution Strategies with Real-World Market Impact & Deep Reinforcement Learning
+# optimalexecution.py - Optimal Execution Strategies with Real-World Market Impact & Deep Reinforcement Learning
 # It includes integrated Matplotlib visualizations and a DDPG agent for continuous action spaces.
 
 import math
